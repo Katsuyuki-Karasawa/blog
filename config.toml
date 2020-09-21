@@ -2,3 +2,10 @@ baseURL = "https://Katsuyuki-Karasawa.github.io/blog/"
 languageCode = "ja-jp"
 title = "My New Hugo Site"
 theme = "github-style"
+publishDir = "docs"
+canonifyurls = true
+
+[params]
+github = "Katsuyuki-Karasawa"
+email = "4ranci0ne@gmail.com"
+avatar = "https://i.imgur.com/lZFxb1N.png"
