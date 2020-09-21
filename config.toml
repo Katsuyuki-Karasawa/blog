@@ -1,6 +1,6 @@
-baseURL = "https://Katsuyuki-Karasawa.github.io/blog/"
+baseURL = "https://Katsuyuki-Karasawa.github.io/"
 languageCode = "ja-jp"
-title = "My New Hugo Site"
+title = "Krsw's Portfolio"
 theme = "github-style"
 publishDir = "docs"
 canonifyurls = true
